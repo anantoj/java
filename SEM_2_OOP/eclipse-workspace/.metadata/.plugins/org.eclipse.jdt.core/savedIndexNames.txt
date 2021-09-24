@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/wijanarko/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+3070904283.index
+939283709.index
+3104846409.index
+2605098321.index
+38794475.index
+1831150907.index

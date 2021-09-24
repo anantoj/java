@@ -1,0 +1,55 @@
+package calculator;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+
+		int operator = 0;
+		while (true){
+			System.out.println("Calculator");
+			System.out.println("===========");
+			double total = 0;
+			System.out.printf("Total = %0.1lf\n\n", total);
+			System.out.print("Input Number: ");
+			int number = scan.nextInt();
+			System.out.println("1. Addition");
+			System.out.println("2. Subtraction");
+			System.out.println("3. Multiplication");
+			System.out.println("4. Division");
+			System.out.println("5. Modulo");
+			System.out.println("6. Clear Total");
+			System.out.println("7. Exit");
+			System.out.print("Operator [1...7]: ");
+			operator = scan.nextInt();
+			do {
+				switch (operator) {
+				case 7:
+					System.exit(0);
+					break;
+				case 6:
+					
+					break;
+				case 1:
+					break;
+				case 2:
+					break;
+				case 3:
+					break;
+				case 4:
+					break;
+				case 5:
+					break;
+				
+				default:
+					break;
+				}
+				
+			} while (operator != 6);
+			
+		}
+	}
+}

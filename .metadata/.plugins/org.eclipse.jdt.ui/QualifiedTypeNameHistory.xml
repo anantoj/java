@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.JPasswordField"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+    <fullyQualifiedTypeName name="javax.swing.JRadioButton"/>
+    <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+    <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="javax.swing.JSpinner"/>
+    <fullyQualifiedTypeName name="javax.swing.JList"/>
+    <fullyQualifiedTypeName name="javax.swing.JCheckBox"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="javax.swing.SpinnerListModel"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="javax.swing.BorderFactory"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenuBar"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenu"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenuItem"/>
+    <fullyQualifiedTypeName name="javax.swing.JDesktopPane"/>
+    <fullyQualifiedTypeName name="javax.swing.JTable"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JInternalFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

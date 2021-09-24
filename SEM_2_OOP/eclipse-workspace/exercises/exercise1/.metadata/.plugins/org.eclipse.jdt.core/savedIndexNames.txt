@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/wijanarko/Documents/CS/java/eclipse-workspace/exercises/exercise1/.metadata/.plugins/org.eclipse.jdt.core
+231773337.index
+939283709.index
+132978208.index

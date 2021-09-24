@@ -1,0 +1,9 @@
+package quiz_2;
+
+public class Item {
+
+	public Item() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

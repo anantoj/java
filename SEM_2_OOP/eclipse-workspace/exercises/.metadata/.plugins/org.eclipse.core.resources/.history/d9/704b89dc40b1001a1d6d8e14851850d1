@@ -1,0 +1,9 @@
+package uap_opercooked;
+
+public class Drink {
+
+	public Drink() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,145 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<bj_run>",
+            "request": "launch",
+            "mainClass": "bj_run.Main",
+            "projectName": "bj_run"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<bj_zoo>",
+            "request": "launch",
+            "mainClass": "bj_zoo.Main",
+            "projectName": "bj_zoo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<bluejackVet>",
+            "request": "launch",
+            "mainClass": "bluejackVet.Main",
+            "projectName": "bluejackVet"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<bookrental>",
+            "request": "launch",
+            "mainClass": "bookrental.Main",
+            "projectName": "bookrental"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<calculator (2)>",
+            "request": "launch",
+            "mainClass": "calculator.Main",
+            "projectName": "calculator (2)"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<calculator>",
+            "request": "launch",
+            "mainClass": "calculator.Main",
+            "projectName": "calculator"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<car_showroom>",
+            "request": "launch",
+            "mainClass": "car_showroom.Main",
+            "projectName": "car_showroom"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<checkChar1>",
+            "request": "launch",
+            "mainClass": "checkChar1.Main",
+            "projectName": "checkChar1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<employee_data>",
+            "request": "launch",
+            "mainClass": "employee_data.Main",
+            "projectName": "employee_data"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<even_odd>",
+            "request": "launch",
+            "mainClass": "even_odd.Main",
+            "projectName": "even_odd"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<exercise3>",
+            "request": "launch",
+            "mainClass": "exercise3.Main",
+            "projectName": "exercise3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<gslc1>",
+            "request": "launch",
+            "mainClass": "gslc1.Main",
+            "projectName": "gslc1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<math>",
+            "request": "launch",
+            "mainClass": "math.Main",
+            "projectName": "math"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<shoe_shop>",
+            "request": "launch",
+            "mainClass": "shoe_shop.Main",
+            "projectName": "shoe_shop"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<snake_ladder>",
+            "request": "launch",
+            "mainClass": "snake_ladder.Main",
+            "projectName": "snake_ladder"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<student_management_system>",
+            "request": "launch",
+            "mainClass": "student_management_system.Main",
+            "projectName": "student_management_system"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<uap_opercooked>",
+            "request": "launch",
+            "mainClass": "uap_opercooked.Main",
+            "projectName": "uap_opercooked"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main(1)",
+            "request": "launch",
+            "mainClass": "mathematics.Main"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+Math Methods
+============
+Math.random()
+    Alternative: use Random class
+Math.min(a,b)
+Math.max(a,b)
+Math.ceil(a)
+Math.floor(a)
+Math.round(a)
+Math.pow(a,b)
+Math.sqrt(a)
+
+
+String Methods
+==============
+assume String str = "";
+
+str.length();
+str.startsWith(String str2)
+str.equals(String str2)
+str.equalsIgnoreCase(String str2)
+str.endsWith(String str2)
+str.format()
+str.charAt(int pos)
+str.contains(String str2)
+str.compareTo(String str2)
+str.indexof(String str2)
+str.toLowerCase()
+str.toUpperCase()
+
+
+Integer Methods
+===============
+
+Integer.parseInt(String str)
+Integer.toString(int i)
+
+Character Methods
+=================
+Character.isDigit(Char c)
+Character.isLetter(Char c)
+Character.toString(Char c)
+

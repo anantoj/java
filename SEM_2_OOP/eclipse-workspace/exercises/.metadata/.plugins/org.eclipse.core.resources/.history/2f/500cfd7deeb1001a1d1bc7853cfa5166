@@ -1,0 +1,9 @@
+package quiz_2;
+
+public class Drink {
+
+	public Drink() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

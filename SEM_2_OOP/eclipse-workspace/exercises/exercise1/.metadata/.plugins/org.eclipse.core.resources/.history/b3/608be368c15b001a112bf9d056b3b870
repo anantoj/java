@@ -1,0 +1,10 @@
+package checkChar1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO create a program to determine whether a character is alphanumeric
+		// TODO create a program to determine whether a character is in lowercase or uppercase
+	}
+
+}

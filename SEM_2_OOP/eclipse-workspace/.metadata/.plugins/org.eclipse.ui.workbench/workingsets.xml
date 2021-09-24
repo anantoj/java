@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580915080645_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580915080655_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582817920006_3" label="input_output" name="input_output">
+<item elementID="=hello" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=meeting1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1580915082594_2" label="Window Working Set" name="Aggregate for window 1580915082594"/>
+</workingSetManager>

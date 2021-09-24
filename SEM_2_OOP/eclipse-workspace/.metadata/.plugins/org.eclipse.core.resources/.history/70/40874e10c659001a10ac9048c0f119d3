@@ -1,0 +1,28 @@
+package meeting2;
+
+import java.util.Scanner;
+
+public class Main {
+	
+	public static void main(String[] args) {
+
+			Scanner scan = new Scanner(System.in);
+			int num = 0;
+			
+			do {
+				try {
+					System.out.print("Input number: ");
+					num = scan.nextInt();
+				} catch (Exception e) {
+					// TODO: handle exception
+					scan.nextLine();
+					System.out.println("error");
+				} finally {
+					// finally code will run after try and catch, despite the program having errors
+					num = 1;
+				}
+			} while ( num != 1);
+						
+	}
+
+}

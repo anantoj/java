@@ -1,0 +1,41 @@
+package checkChar1;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO create a program to determine whether a character is alphanumeric
+		// TODO create a program to determine whether a character is in lowercase or uppercase
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Check Character Program");
+		System.out.println("1. Check alphanumeric");
+		System.out.println("2. Check lower/uppercase");
+		System.out.print(">>");
+		int menu;
+		try {
+			menu = scan.nextInt();
+		} catch (Exception e) {
+			System.out.println("Invalid Input");
+		}
+		
+		
+		switch (key) {
+		case 1:
+			alphanumeric();
+			break;
+		case 2:
+			lowerUpper();
+
+		default:
+			break;
+		}
+	}
+	
+	public static void alphanumeric() {
+		Scanner scan = new Scanner(System.in);
+		char c = scan.next().charAt(0);
+	}
+
+}

@@ -1,0 +1,25 @@
+package checkChar1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO create a program to determine whether a character is alphanumeric
+		// TODO create a program to determine whether a character is in lowercase or uppercase
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Check Character Program");
+		System.out.println("1. Check alphanumeric");
+		System.out.println("2. Check lower/uppercase");
+		System.out.print(">>");
+		
+		switch () {
+		case value: {
+			
+			yield type;
+		}
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + );
+		}
+	}
+
+}
